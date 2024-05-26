@@ -1,0 +1,14 @@
+{"org":"MAD",
+"dest":"IXM",
+"date":"12-JAN-2024",
+"type":"ONE-WAY",
+"price":12.45,
+"details":{
+"name":"Gowtham",
+"phoneNo":748593748,
+"address":{
+"district":"Chennai",
+"pinCode":600097
+}
+}
+}
